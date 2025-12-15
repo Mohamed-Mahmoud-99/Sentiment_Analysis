@@ -42,7 +42,7 @@ The `preprocess_text` function performs:
 ## Dataset
 
 Uses the **IMDB dataset** (50,000 reviews, labeled positive/negative).  
-Training set: 40,000 reviews + 15,000 from test set.  
+Training set: 40,000 reviews.  
 Test set: remaining 10,000 reviews.
 
 ---
