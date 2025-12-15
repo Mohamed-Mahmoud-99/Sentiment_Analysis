@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 import nltk
 import re
 
-# تحميل موارد NLTK
+
 nltk.download('punkt')
 nltk.download('punkt_tab')
 nltk.download('stopwords')
