@@ -13,7 +13,6 @@ This project implements a **sentiment analysis model** using **LSTM (Long Short-
 .
 ├── sentiment_lstm.py      # Main Python script with the full model code
 ├── README.md              # Project documentation
-└── requirements.txt       # Dependencies
 ```
 
 ---
